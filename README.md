@@ -88,7 +88,8 @@ title('Inverse FFT OF X(K)');
 
 
 ## FFT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/629b7dc6-279e-45fa-acfb-ee7132887644" />
+<img width="1918" height="1078" alt="FET OUTPUT" src="https://github.com/user-attachments/assets/81390adb-83ba-4287-a070-72f617660f23" />
+
 
 
 # RESULT: 
